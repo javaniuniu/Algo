@@ -2,14 +2,14 @@
 
 ### 解题步骤
 **DFS 通用解题步骤**
-1. 截止条件
-2. 遍历候选节点
-3. 筛选
+1. 截止条件   
+2. 遍历候选节点   
+3. 筛选   
 
 ### DFS搜索执行顺序
 - 如下图
 
-[dfs](/images/Jietu20200422-195425@2x.jpg)
+![dfs](/images/Jietu20200422-195425@2x.jpg)
 
 
 ### 力扣对应题目
@@ -42,7 +42,7 @@ public static String dfs(char[] chars,Stack stack) {
 ```
 
 ### 参考视频
-- [【算法】dfs介绍](https://www.bilibili.com/video/BV1qE411E7di?from=search&seid=1863457748201838862)
+- [[算法]dfs介绍](https://www.bilibili.com/video/BV1qE411E7di?from=search&seid=1863457748201838862)
 - [[Python] BFS和DFS算法（第1讲）](https://www.bilibili.com/video/BV1Ks411579J/?spm_id_from=333.788.videocard.1)
 - [[Python] BFS和DFS算法（第2讲）](https://www.bilibili.com/video/BV1Ks411575U/?spm_id_from=333.788.videocard.0)
 - [[Python] BFS和DFS算法（第3讲）—— 从BFS到Dijkstra算法](https://www.bilibili.com/video/BV1ts41157Sy/?spm_id_from=333.788.videocard.0)
